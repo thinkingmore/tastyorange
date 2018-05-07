@@ -1,0 +1,6 @@
+git status
+git add index.html
+git commit -m "add a new file called index.html"
+git push
+
+username/passsord
